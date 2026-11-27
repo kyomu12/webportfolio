@@ -13,8 +13,9 @@ export const EXPERIENCE: ExperienceItem[] = [
         to: '2026',
         company: 'Агентство веб-разработки',
         role: 'Frontend-разработчик',
-        description: 'Интерфейсы для проектов заказчиков: админ-панели и клиентские приложения.',
-        stack: 'TypeScript · React · GraphQL',
+        description:
+            'Платформа для теннисных клубов «Чемпион» и Gorin Tennis: четыре приложения на общем GraphQL-API, от админки до клиентского и методических модулей.',
+        stack: 'TypeScript · React · Next.js · GraphQL',
     },
     {
         from: '2026',
@@ -22,7 +23,7 @@ export const EXPERIENCE: ExperienceItem[] = [
         company: 'Свои проекты',
         role: 'Fullstack-разработчик',
         description:
-            'Flowsy — админ-панель для бизнеса, интернет-магазин errorBrand на её API и мобильное приложение для Flowsy.',
+            'Flowsy — SaaS-платформа для бизнеса, интернет-магазин errorBrand на её API, мобильное приложение и другие проекты в разработке (Хватка, Cofeo, streamer-web).',
         stack: 'Next.js · PostgreSQL · Drizzle · better-auth',
     },
 ];
